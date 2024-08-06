@@ -1,3 +1,18 @@
+# Homework for the course of Java Advanced, ITMO CT, Spring 2024
+
+* [Страница курса](http://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
+
+Выполнил студент группы М3234, Новицкий Илья.
+
+## Подготовка
+
+Домашние задания рассчитывают на то, что рядом с репозиторием java-advanced-2024-solutions в директории
+java-advanced-2024 лежит
+клон [java-advanced-2024](https://www.kgeorgiy.info/git/geo/java-advanced-2024/).
+Пожалуйста, выполните это перед началом работы.
+
+## Правила игры
+
 Этот репозиторий склонирован для каждого студента и доступен по адресу
 `https://www.kgeorgiy.info/git-students/year2022/<USER>/java-advanced`,
 где `<USER>` — имя пользователя в PCMS (пароль так же используется из PCMS).
